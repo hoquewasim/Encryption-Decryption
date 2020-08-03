@@ -1,4 +1,4 @@
 # Encryption-Decryption
 
 ## Demonstration
-[Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+[Alt Text](https://github.com/hoquewasim/Encryption-Decryption/blob/master/demonstration.gif)
